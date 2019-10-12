@@ -3,10 +3,11 @@
 /* --------------------------- START CSS ---------------------------------*/
 
 html,
-body {
+body,
+#app{
         height: 100%;
         width: 100%;
-        background: #000;
+        background: #aaa;
         overflow: hidden;
         font-family: Arial, sans-serif;
 }
